@@ -108,11 +108,9 @@ ENV/
 .mypy_cache/
 
 # input data, saved log, checkpoints and pretrained models
-data/
 input/
 saved/
 outputs/
-datasets/
 pretrained/
 trained_models/
 
